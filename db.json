@@ -1,0 +1,14 @@
+{
+    "brand": [
+      {
+        "id": "adminnike",
+        "name": "NIKE",
+        "password": "admi"
+      },
+      {
+        "id": "adminpuma",
+        "name": "PUMA",
+        "password": "admin"
+      }
+    ]
+  }
